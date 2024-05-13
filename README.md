@@ -13,6 +13,7 @@ group: 'Cryptocurrencies'
   data={{
     url: 'btc_coingecko.csv'
   }}
+/>
     
 Note: price at 00:00:00 GMT
 Source: [Coingecko](https://www.coingecko.com/es/monedas/bitcoin/historical_data)
