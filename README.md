@@ -3,7 +3,7 @@ title: 'Bitcoin price from January 1, 2015 to June 30, 2024'
 author: 'César Heredia, data journalist'
 description: 'An analysis about the Bitcoin daily price data from Coingecko'
 modified: '2024-06-29'
-files: ['main_data.csv','btc_avg_month.csv','btc_avg_year.csv']
+files: ['btc_main.csv','btc_avg_month.csv','btc_avg_year.csv']
 group: 'Cryptocurrencies'
 ---
 
@@ -11,7 +11,7 @@ group: 'Cryptocurrencies'
 
 <FlatUiTable
   data={{
-    url: 'main_data.csv'
+    url: 'btc_main.csv'
   }}
 />
     
