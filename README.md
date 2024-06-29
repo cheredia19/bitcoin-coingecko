@@ -7,7 +7,7 @@ files: ['btc_coingecko.csv','btc_avg_month.csv','btc_avg_year.csv']
 group: 'Cryptocurrencies'
 ---
 
-## Bitcoin daily price from January 1, 2015 to May 12, 2024 (USD)
+## Bitcoin daily price from January 1, 2015 to June 30, 2024 (USD)
 
 <FlatUiTable
   data={{
