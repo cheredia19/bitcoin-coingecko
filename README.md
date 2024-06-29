@@ -1,5 +1,5 @@
 ---
-title: 'Bitcoin price from January 1, 2015 to May 12, 2024'
+title: 'Bitcoin price from January 1, 2015 to June 30, 2024'
 author: 'César Heredia, data journalist'
 description: 'An analysis about the Bitcoin daily price data from Coingecko'
 modified: '2024-05-12'
@@ -11,7 +11,7 @@ group: 'Cryptocurrencies'
 
 <FlatUiTable
   data={{
-    url: 'btc_coingecko.csv'
+    url: 'main_data.csv'
   }}
 />
     
