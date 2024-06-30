@@ -3,11 +3,11 @@ title: 'Bitcoin price from January 1, 2015 to June 30, 2024'
 author: 'César Heredia, data journalist'
 description: 'An analysis about the Bitcoin daily price data from Coingecko'
 modified: '2024-06-29'
-files: ['btc_main.csv','btc_avg_month.csv','btc_avg_year.csv']
+files: ['btc_main.csv','btc_year_avg.csv']
 group: 'Cryptocurrencies'
 ---
 
-## Bitcoin daily price from January 1, 2015 to June 30, 2024 (USD)
+#### Bitcoin daily price from January 1, 2015 to June 30, 2024 (USD)
 
 <FlatUiTable
   data={{
@@ -27,6 +27,7 @@ Source: [Coingecko](https://www.coingecko.com/es/monedas/bitcoin/historical_data
   yAxis="avg"
 />
 
+#### Bitcoin yearly average price from 2015 to June 2024 (USD)
 <PlotlyBarChart
   data={{
     url: 'btc_year_avg.csv'
