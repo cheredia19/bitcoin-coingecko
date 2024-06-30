@@ -8,11 +8,20 @@ group: 'Cryptocurrencies'
 ---
 
 #### Bitcoin daily price from January 1, 2015 to June 30, 2024 (USD)
-
 <FlatUiTable
   data={{
     url: 'btc_main.csv'
   }}
+/>
+
+#### Bitcoin daily price from January 1, 2015 to June 30, 2024
+<PlotlyBarChart
+  data={{
+    url: 'btc_main.csv'
+  }}
+  title="BTC average price per day (USD)"
+  xAxis="date"
+  yAxis="price"
 />
 
 #### Bitcoin monthly average price from January, 2015 to June, 2024
