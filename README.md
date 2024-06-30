@@ -20,7 +20,7 @@ Source: [Coingecko](https://www.coingecko.com/es/monedas/bitcoin/historical_data
 
 <LineChart
   data={{
-    url: 'btc_year_avg.csv'
+    url: 'btc_avg_month.csv'
   }}
   title="BTC average price per year"
   xAxis="year"
@@ -29,9 +29,9 @@ Source: [Coingecko](https://www.coingecko.com/es/monedas/bitcoin/historical_data
 
 <PlotlyBarChart
   data={{
-    url: 'btc_avg_year.csv'
+    url: 'btc_year_avg.csv'
   }}
-  title="BTC avergage price per year"
+  title="BTC average price per year"
   xAxis="year"
   yAxis="avg"
 />
