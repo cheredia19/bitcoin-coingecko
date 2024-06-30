@@ -18,6 +18,7 @@ group: 'Cryptocurrencies'
 Note: price at 00:00:00 GMT
 Source: [Coingecko](https://www.coingecko.com/es/monedas/bitcoin/historical_data)
 
+#### Bitcoin monthly average price from January, 2015 to June, 2024 (USD)
 <LineChart
   data={{
     url: 'btc_avg_month.csv'
@@ -27,7 +28,7 @@ Source: [Coingecko](https://www.coingecko.com/es/monedas/bitcoin/historical_data
   yAxis="avg"
 />
 
-#### Bitcoin yearly average price from 2015 to June 2024 (USD)
+#### Bitcoin yearly average price from 2015 to June, 2024 (USD)
 <PlotlyBarChart
   data={{
     url: 'btc_year_avg.csv'
