@@ -20,7 +20,7 @@ group: 'Cryptocurrencies'
   data={{
     url: 'btc_month_avg.csv'
   }}
-  title="BTC average price per month (USD) 
+  title="BTC average price per month (USD)"
   xAxis="month"
   yAxis="avg"
 />
