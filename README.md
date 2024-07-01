@@ -9,7 +9,7 @@ group: 'Cryptocurrencies'
 
 What a rollercoaster has been the Bitcoin! From its [initial monetary value](https://www.forbes.com/advisor/in/investing/cryptocurrency/bitcoin-price-history-chart/#:~:text=What%20Price%20Did%20Bitcoin%20Start,a%20value%20of%20%240.0009%20each.) [to the guy who paid two pizzas with 10,000 bitcoins on May 22, 2010](https://news.bitcoin.com/14-years-ago-an-individual-offered-10000-bitcoins-for-2-pizzas-finalizing-the-deal-in-4-days/), to the current price, much water has passed under the bridge.
 
-
+From an initial estimated value of $0.0009, Bitcoin wasn't even worth a buck until February, 2011. Months later, its cotization began to scale. It reached $30 for the first time in July but dropped to $2 just six months later.
 
 ## What happened next?
 
