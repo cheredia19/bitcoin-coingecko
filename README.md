@@ -7,7 +7,17 @@ files: ['btc_coingecko.csv','btc_year.csv','btc_month.csv','variation.csv','mont
 group: 'Cryptocurrencies'
 ---
 
-What a rollercoaster has been the bitcoin price! From its [initial monetary value](https://www.forbes.com/advisor/in/investing/cryptocurrency/bitcoin-price-history-chart/#:~:text=What%20Price%20Did%20Bitcoin%20Start,a%20value%20of%20%240.0009%20each.), [to the guy who paid two pizzas with 10,000 bitcoins on May 22, 2010](https://news.bitcoin.com/14-years-ago-an-individual-offered-10000-bitcoins-for-2-pizzas-finalizing-the-deal-in-4-days/), to the current price, a lot of water has passed under the bridge.
+What a rollercoaster has been the Bitcoin! From its [initial monetary value](https://www.forbes.com/advisor/in/investing/cryptocurrency/bitcoin-price-history-chart/#:~:text=What%20Price%20Did%20Bitcoin%20Start,a%20value%20of%20%240.0009%20each.), [to the guy who paid two pizzas with 10,000 bitcoins on May 22, 2010](https://news.bitcoin.com/14-years-ago-an-individual-offered-10000-bitcoins-for-2-pizzas-finalizing-the-deal-in-4-days/), to the current price, much water has passed under the bridge.
+
+Bitcoin was created on January 3, 2009, by Satoshi Nakamoto, a person/entity/group of people who remains anonymous. From an estimated initial value of $0.0009, Bitcoin wasn’t even worth a dollar until February 2011. But months later, its cotization began to scale. It reached $31 for the first time in July, but dropped to $2 six months later.
+
+In 2012, Bitcoin broke the $100 barrier for the first time on April 11, and in 2013, the $1,000 barrier, but dropped to $596.1 on December, 20.
+
+2014 was not a good year, either. Bitcoin price reached a maximum of $936.4 on January 5, but ended that year at $314, a two-thirds decrease.
+
+## What happened next?
+
+According to Coingecko, the world's largest independent cryptocurrency data aggregator, the table below shows the bitcoin historical price data from January 1, 2015 to June 30, 2024.
 
 #### Bitcoin daily price from January 1, 2015 to June 30, 2024 (USD)
 <FlatUiTable
@@ -26,7 +36,7 @@ What a rollercoaster has been the bitcoin price! From its [initial monetary valu
   yAxis="price"
 />
 
-#### Bitcoin monthly average price from January, 2015 to June, 2024
+#### Bitcoin monthly average price from January 2015 to June 2024
 <PlotlyBarChart
   data={{
     url: 'btc_month.csv'
@@ -36,14 +46,14 @@ What a rollercoaster has been the bitcoin price! From its [initial monetary valu
   yAxis="avg"
 />
 
-#### Bitcoin monthly variation price from January, 2015 to June, 2024 (%)
+#### Bitcoin monthly variation price from January 2015 to June 2024 (%)
 <FlatUiTable
   data={{
     url: 'month_var.csv'
   }}
 />
 
-#### Bitcoin YoY average price from 2015 to June, 2024
+#### Bitcoin YoY average price from 2015 to June 2024
 <PlotlyBarChart
   data={{
     url: 'btc_year.csv'
@@ -53,7 +63,7 @@ What a rollercoaster has been the bitcoin price! From its [initial monetary valu
   yAxis="avg"
 />
 
-#### Bitcoin YoY variation price from 2015 to June, 2024 (%)
+#### Bitcoin YoY variation price from 2015 to June 2024 (%)
 <FlatUiTable
   data={{
     url: 'year_var.csv'
