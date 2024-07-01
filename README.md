@@ -50,7 +50,7 @@ Bitcoin reached the following milestones on these dates:
  - 60k: March 14, 2021
  - 70k: March 12, 2024
 
-So, there is no surprise when you look a the YoY average price variation from 2020 to 2021: an increase of 609%.
+So, there is no surprise when you look at the YoY average price variation from 2020 to 2021: an increase of 329.3%. However, the maximum percent variation occurred between 2016 and 2017 (609%)
 
 #### Bitcoin YoY variation price from 2015 to June 2024 (%)
 <FlatUiTable
