@@ -17,7 +17,7 @@ In 2012, Bitcoin broke the 100-dollar barrier for the first time on April 11, an
 
 ## What happened next?
 
-According to Coingecko, the world's largest independent cryptocurrency data aggregator, the table below shows the bitcoin historical price data from January 1, 2015 to June 30, 2024.
+Coingecko, the world's largest independent aggregator of cryptocurrency data, has historical Bitcoin price data public since January 1, 2015. The following table shows the daily price from that date through June 30, 2024. That's nine and a half years or, looked at another way, 114 months, or 3,468 days of Bitcoin prices at our disposal to perform the most interesting analyses.
 
 #### Bitcoin daily price from January 1, 2015 to June 30, 2024 (USD)
 <FlatUiTable
@@ -25,6 +25,8 @@ According to Coingecko, the world's largest independent cryptocurrency data aggr
     url: 'btc_coingecko.csv'
   }}
 />
+
+
 
 #### Bitcoin daily price from January 1, 2015 to June 30, 2024
 <PlotlyBarChart
