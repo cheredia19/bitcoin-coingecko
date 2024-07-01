@@ -1,7 +1,7 @@
 ---
-title: 'Bitcoin price from January 1, 2015 to June 30, 2024'
+title: '3,468 days of Bitcoin history'
 author: 'César Heredia, data journalist'
-description: 'An analysis about the Bitcoin daily price data from Coingecko'
+description: 'A look at the quintessential cryptocurrency'
 modified: '2024-06-29'
 files: ['btc_coingecko.csv','btc_year.csv','btc_month.csv','variation.csv','month_var.csv','year_var.csv']
 group: 'Cryptocurrencies'
@@ -26,7 +26,7 @@ Coingecko, the world's largest independent aggregator of cryptocurrency data, ha
   }}
 />
 
-In that span, Bitcoin went from the lowest price (172 dollars on January 14, 2015) to 73,098 dollars (on March 14, 2024), the highest value reached until now. How many dollars would represent that day the two pizzas bought in 2010 for 10,000 bitcoins? A hint: it's a number of nine figures!
+In that span, Bitcoin went from the lowest price (172 dollars on January 14, 2015) to 73,098 dollars (on March 14, 2024), the highest value reached until now. How many dollars would represent that day the two pizzas bought in 2010 for 10,000 bitcoins? A hint: it's **a number of nine figures**!
 
 #### Bitcoin daily price from January 1, 2015 to June 30, 2024
 <PlotlyBarChart
@@ -50,7 +50,7 @@ Bitcoin reached the following milestones on these dates:
  - 60k: March 14, 2021
  - 70k: March 12, 2024
 
-So, there is no surprise when you look at the YoY average price variation from 2020 to 2021: an increase of 329.3%. However, the maximum percent variation occurred between 2016 and 2017 (609%)
+So, there is no surprise when you look at the **YoY average price variation** from 2020 to 2021: an increase of 329.3%. However, the maximum percent variation occurred between 2016 and 2017 (609%). The only significant decrease was from 2021 to 2022 (-40.4%).
 
 #### Bitcoin YoY variation price from 2015 to June 2024 (%)
 <FlatUiTable
