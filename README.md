@@ -7,13 +7,15 @@ files: ['btc_coingecko.csv','btc_year.csv','btc_month.csv','variation.csv','mont
 group: 'Cryptocurrencies'
 ---
 
-What a rollercoaster has been the Bitcoin! From its [initial monetary value](https://www.forbes.com/advisor/in/investing/cryptocurrency/bitcoin-price-history-chart/#:~:text=What%20Price%20Did%20Bitcoin%20Start,a%20value%20of%20%240.0009%20each.), [to the guy who paid two pizzas with 10,000 bitcoins on May 22, 2010](https://news.bitcoin.com/14-years-ago-an-individual-offered-10000-bitcoins-for-2-pizzas-finalizing-the-deal-in-4-days/), to the current price, much water has passed under the bridge.
+What a rollercoaster has been the Bitcoin! From its [initial monetary value](https://www.forbes.com/advisor/in/investing/cryptocurrency/bitcoin-price-history-chart/#:~:text=What%20Price%20Did%20Bitcoin%20Start,a%20value%20of%20%240.0009%20each.) [to the guy who paid two pizzas with 10,000 bitcoins on May 22, 2010](https://news.bitcoin.com/14-years-ago-an-individual-offered-10000-bitcoins-for-2-pizzas-finalizing-the-deal-in-4-days/), to the current price, much water has passed under the bridge.
 
-Bitcoin was created on January 3, 2009, by Satoshi Nakamoto, a person/entity/group of people who remains anonymous. From an estimated initial value of $0.0009, Bitcoin wasn’t even worth a dollar until February 2011. But months later, its cotization began to scale. It reached $31 for the first time in July, but dropped to $2 six months later.
+Bitcoin was created on January 3, 2009, by Satoshi Nakamoto, a person/entity/group of people who remains anonymous. 
 
-In 2012, Bitcoin broke the $100 barrier for the first time on April 11, and in 2013, the $1,000 barrier, but dropped to $596.1 on December, 20.
+From an estimated initial value of $0.0009, Bitcoin wasn’t even worth a dollar until February 2011. But months later, its cotization began to scale. It reached $31 for the first time in July but dropped to $2 six months later.
 
-2014 was not a good year, either. Bitcoin price reached a maximum of $936.4 on January 5, but ended that year at $314, a two-thirds decrease.
+In 2012, Bitcoin broke the $100 barrier for the first time on April 11, a
+
+2014 was not a good year, either. Bitcoin price reached a maximum of $936.4 on January 5. It ended that year at $314, a value loss of two-thirds.
 
 ## What happened next?
 
