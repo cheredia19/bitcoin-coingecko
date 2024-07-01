@@ -35,13 +35,10 @@ group: 'Cryptocurrencies'
 />
 
 #### Bitcoin monthly variation price from January, 2015 to June, 2024 (%)
-<PlotlyBarChart
+<FlatUiTable
   data={{
     url: 'month_variation.csv'
   }}
-  title="BTC average price per month (USD)"
-  xAxis="month"
-  yAxis="variation"
 />
 
 #### Bitcoin yearly average price from 2015 to June, 2024
