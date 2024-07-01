@@ -14,7 +14,7 @@ group: 'Cryptocurrencies'
   }}
 />
 
-#### Bitcoin daily price from January 1, 2015 to June 30, 2024 (%)
+#### Bitcoin daily price from January 1, 2015 to June 30, 2024
 <PlotlyBarChart
   data={{
     url: 'btc_coingecko.csv'
@@ -44,7 +44,7 @@ group: 'Cryptocurrencies'
   yAxis="avg"
 />
 
-#### Bitcoin daily variation from January 1, 2015 to June 30, 2024
+#### Bitcoin daily variation from January 1, 2015 to June 30, 2024 (%)
 <FlatUiTable
   data={{
     url: 'variation.csv'
