@@ -11,11 +11,11 @@ What a rollercoaster has been the Bitcoin! From its [initial monetary value](htt
 
 Bitcoin was created on January 3, 2009, by Satoshi Nakamoto, a person/entity/group of people who remains anonymous. 
 
-From an estimated initial value of $0.0009, Bitcoin wasn’t even worth a dollar until February 2011. But months later, its cotization began to scale. It reached $31 for the first time in July but dropped to $2 six months later.
+From an estimated initial value of $0.0009, Bitcoin wasn’t even worth a buck until February 2011. But months later, its cotization began to scale. It reached $30 for the first time in July but dropped to $2 six months later.
 
-In 2012, Bitcoin broke the $100 barrier for the first time on April 11, a
+In 2012, Bitcoin broke the $100 barrier for the first time on April 11, and in 2013, the $1,000 barrier, however it rapidly fell to $559.36 on December 17.
 
-2014 was not a good year, either. Bitcoin price reached a maximum of $936.4 on January 5. It ended that year at $314, a value loss of two-thirds.
+2014 was not a good year either, despite reaching a maximum of $936.4 on January 5. It ended that year at $314, a value loss of two-thirds.
 
 ## What happened next?
 
