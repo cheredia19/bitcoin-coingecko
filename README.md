@@ -26,7 +26,7 @@ Coingecko, the world's largest independent aggregator of cryptocurrency data, ha
   }}
 />
 
-
+In that span, Bitcoin went from the lowest price (172 dollars on January 14, 2015) to 73,098 dollars (on March 14, 2024), the highest value reached until now. How many dollars would represent that day the two pizzas bought in 2010 for 10,000 bitcoins? A hint: it's a number of nine figures!
 
 #### Bitcoin daily price from January 1, 2015 to June 30, 2024
 <PlotlyBarChart
