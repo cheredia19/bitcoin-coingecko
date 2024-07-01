@@ -38,6 +38,39 @@ In that span, Bitcoin went from the lowest price (172 dollars on January 14, 201
   yAxis="price"
 />
 
+### Milestones
+
+Bitcoin reached the following milestones on these dates:
+
+ - 10k: November 28, 2017
+ - 20k: December 17, 2020
+ - 30k: January 3, 2021
+ - 40k: January 9, 2021
+ - 50k: February 18, 2021
+ - 60k: March 14, 2021
+ - 70k: March 12, 2024
+
+So, there is no surprise when you look a the YoY average price variation from 2020 to 2021: an increase of 609%.
+
+#### Bitcoin YoY variation price from 2015 to June 2024 (%)
+<FlatUiTable
+  data={{
+    url: 'year_var.csv'
+  }}
+/>
+
+#### Bitcoin YoY average price from 2015 to June 2024
+<PlotlyBarChart
+  data={{
+    url: 'btc_year.csv'
+  }}
+  title="BTC average price per year (USD)"
+  xAxis="year"
+  yAxis="avg"
+/>
+
+## Month-Over-Month
+
 #### Bitcoin monthly average price from January 2015 to June 2024
 <PlotlyBarChart
   data={{
@@ -52,23 +85,6 @@ In that span, Bitcoin went from the lowest price (172 dollars on January 14, 201
 <FlatUiTable
   data={{
     url: 'month_var.csv'
-  }}
-/>
-
-#### Bitcoin YoY average price from 2015 to June 2024
-<PlotlyBarChart
-  data={{
-    url: 'btc_year.csv'
-  }}
-  title="BTC average price per year (USD)"
-  xAxis="year"
-  yAxis="avg"
-/>
-
-#### Bitcoin YoY variation price from 2015 to June 2024 (%)
-<FlatUiTable
-  data={{
-    url: 'year_var.csv'
   }}
 />
 
