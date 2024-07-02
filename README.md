@@ -86,7 +86,20 @@ The steepest declines occurred on the following dates:
  - March 13, 2020: -5.2%.
  - January 14, 2015: -22.3%.
  - September 14, 2017: -20.2%.
- - 
+ - January 16, 2018: -18.7%.
+ - February 6, 2018: -17.6%.
+ - January 13, 2015: -17.5%.
+ - June 14, 2022: -15.8%.
+ - November 10, 2022: -15.2%.
+ - January 15, 2016: -14.8%
+ - August 2, 2016: -14.6%.
+
+#### Bitcoin daily price variation from January 1, 2015 to June 30, 2024 (%)
+<FlatUiTable
+  data={{
+    url: 'variation.csv'
+  }}
+/>
 
 ## Month-Over-Month
 
@@ -109,12 +122,6 @@ Some of the biggest monthly percent price variations of Bitcoin happened in 2017
   }}
 />
 
-#### Bitcoin daily variation from January 1, 2015 to June 30, 2024 (%)
-<FlatUiTable
-  data={{
-    url: 'variation.csv'
-  }}
-/>
 
 Note for the graphics: all prices at 00:00:00 GMT
 Source: [Coingecko](https://www.coingecko.com/es/monedas/bitcoin/historical_data)
