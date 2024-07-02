@@ -26,7 +26,7 @@ Coingecko, the world's largest independent aggregator of cryptocurrency data, ha
   }}
 />
 
-In that span, Bitcoin went from the lowest price (172 dollars on January 14, 2015) to 73,098 dollars (on March 14, 2024), the highest value reached until now. How many dollars would represent that day the two pizzas bought in 2010 for 10,000 bitcoins? A hint: it's **a number of nine figures**!
+In that span, Bitcoin went from the lowest price (172 dollars on January 14, 2015) to 73,098 dollars (on March 14, 2024), the highest value reached until now. Not bad if you believed in this project and invested in (or before) 2015. How many dollars would represent that day the two pizzas bought in 2010 for 10,000 bitcoins? A hint: it's **a number of nine figures**!
 
 #### Bitcoin daily price from January 1, 2015 to June 30, 2024
 <PlotlyBarChart
@@ -50,14 +50,14 @@ Bitcoin reached the following milestones on these dates:
  - 60k: March 14, 2021.
  - 70k: March 12, 2024.
 
-So, there is no surprise when you look at the **YoY average price variation** from 2020 to 2021: an increase of 329.3%. However, the maximum percent variation occurred between 2016 and 2017 (609%). The only significant decrease was from 2021 to 2022 (-40.4%).
-
 #### Bitcoin YoY price variation from 2015 to June 2024 (%)
 <FlatUiTable
   data={{
     url: 'year_var.csv'
   }}
 />
+
+So, there is no surprise when you look at the **YoY average price variation** from 2020 to 2021: an increase of 329.3%. However, the maximum percent variation occurred between 2016 and 2017 (609%). The only significant decrease was from 2021 to 2022 (-40.4%).
 
 #### Bitcoin YoY average price from 2015 to June 2024
 <PlotlyBarChart
@@ -105,6 +105,17 @@ The steepest declines occurred on the following dates:
 
 Some of the biggest monthly percent price variations of Bitcoin happened in 2017 between June and December. From November to December, **Bitcoin almost doubled its value** (an astonishing 99%).
 
+In May 2017 (54.6%), August 2017 (51.3%) and January 2021 (59.6%), the Bitcoin price rose more than 50%. In June 2017 (41.1%), November 2017 (46.7%), and May 2019 (40.5%), it increased 40% or more. Nine times, between November 2015 and August 2021, it climbed more than 30%, and in another six days, price jumped more than 20%.
+
+#### Bitcoin monthly price variation from January 2015 to June 2024 (%)
+<FlatUiTable
+  data={{
+    url: 'month_var.csv'
+  }}
+/>
+
+
+
 #### Bitcoin monthly average price from January 2015 to June 2024
 <PlotlyBarChart
   data={{
@@ -114,14 +125,6 @@ Some of the biggest monthly percent price variations of Bitcoin happened in 2017
   xAxis="month"
   yAxis="avg"
 />
-
-#### Bitcoin monthly price variation from January 2015 to June 2024 (%)
-<FlatUiTable
-  data={{
-    url: 'month_var.csv'
-  }}
-/>
-
 
 Note for the graphics: all prices at 00:00:00 GMT
 Source: [Coingecko](https://www.coingecko.com/es/monedas/bitcoin/historical_data)
