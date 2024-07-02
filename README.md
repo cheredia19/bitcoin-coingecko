@@ -7,6 +7,8 @@ files: ['btc_coingecko.csv','btc_year.csv','btc_month.csv','variation.csv','mont
 group: 'Cryptocurrencies'
 ---
 
+*By César Heredia, data journalist*
+
 What a rollercoaster for Bitcoin! From its [initial monetary value](https://www.forbes.com/advisor/in/investing/cryptocurrency/bitcoin-price-history-chart/#:~:text=What%20Price%20Did%20Bitcoin%20Start,a%20value%20of%20%240.0009%20each.) [to the guy who paid two pizzas with 10,000 bitcoins on May 22, 2010](https://news.bitcoin.com/14-years-ago-an-individual-offered-10000-bitcoins-for-2-pizzas-finalizing-the-deal-in-4-days/), to the current price, much water has passed under the bridge.
 
 From an initial estimated value of 0.0009, Bitcoin wasn't even worth a buck until February, 2011. Months later, its cotization began to scale. It reached 30 dollars for the first time in July but dropped to 2 dollars just six months later.
@@ -50,7 +52,7 @@ Bitcoin reached the following milestones on these dates:
  - 60k: March 14, 2021.
  - 70k: March 12, 2024.
 
-#### Bitcoin YoY price variation from 2015 to June 2024 (%)
+#### Bitcoin YoY average price variation from 2015 to June 2024 (%)
 <FlatUiTable
   data={{
     url: 'year_var.csv'
@@ -105,15 +107,18 @@ The steepest declines occurred on the following dates:
 
 Some of the biggest monthly percent price variations of Bitcoin happened in 2017 between June and December. From November to December, **Bitcoin almost doubled its value** (an astonishing 99%).
 
-In May 2017 (54.6%), August 2017 (51.3%) and January 2021 (59.6%), the Bitcoin price rose more than 50%. In June 2017 (41.1%), November 2017 (46.7%), and May 2019 (40.5%), it increased 40% or more. Nine times, between November 2015 and August 2021, it climbed more than 30%, and in another six days, price jumped more than 20%.
+In May 2017 (54.6%), August 2017 (51.3%) and January 2021 (59.6%), the Bitcoin price rose more than 50%. In June 2017 (41.1%), November 2017 (46.7%), and May 2019 (40.5%), it increased 40% or more. Nine times, between November 2015 and August 2021, it climbed more than 30%, and in another six days, the price jumped more than 20%.
 
-#### Bitcoin monthly price variation from January 2015 to June 2024 (%)
+#### Bitcoin monthly average price variation from January 2015 to June 2024 (%)
 <FlatUiTable
   data={{
     url: 'month_var.csv'
   }}
 />
 
+But, as we have seen in this report, the Bitcoin price has been a constant high and low, not for the faint-hearted. For example, in December 2018, it lost a third of its value compared to the previous month, the largest MoM decline. Only one more time, it decreased by more than 30% (30.1% in February 2018).
+
+On 17 times, Bitcoin price recorded a monthly loss between 10 and 30 percent.
 
 
 #### Bitcoin monthly average price from January 2015 to June 2024
@@ -128,3 +133,13 @@ In May 2017 (54.6%), August 2017 (51.3%) and January 2021 (59.6%), the Bitcoin p
 
 Note for the graphics: all prices at 00:00:00 GMT
 Source: [Coingecko](https://www.coingecko.com/es/monedas/bitcoin/historical_data)
+
+## What next?
+
+Jack Dorsey, the creator of Twitter (now X), forecasts that [Bitcoin will reach a seven-figure price by 2030](https://www.coindesk.com/markets/2024/05/10/former-twitter-ceo-jack-dorsey-says-bitcoin-will-go-beyond-1-million-in-2030/). That is an optimistic approach, given that according to Coincodex price prediction, [Bitcoin may reach a value of approximately 300,000 dollars by 2030](https://coincodex.com/crypto/bitcoin/price-prediction/).
+
+Meanwhile, marketing guru Neil Patel predicted at The Motley Fool that it will be worth $150,000 in six years. This article was replicated on the [Nasdaq website](https://www.nasdaq.com/articles/prediction:-bitcoin-will-reach-$150000-in-2030). 
+
+Let's see what fate has in store for the world's pioneer and best-known cryptocurrency.
+
+##### DISCLAIMER: This note is purely an informative data analysis. It is NOT intended to suggest investing in Bitcoin or any other cryptocurrency. Consult with your trusted advisor for the best possible decision for your finances.
