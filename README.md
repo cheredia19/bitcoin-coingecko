@@ -1,7 +1,7 @@
 ---
 title: '3,468 days of Bitcoin history'
 author: 'César Heredia, data journalist'
-description: 'A look at the quintessential cryptocurrency'
+description: 'A detailed look at the behavior of the quintessential cryptocurrency since 2015'
 modified: '2024-06-29'
 files: ['btc_coingecko.csv','btc_year.csv','btc_month.csv','variation.csv','month_var.csv','year_var.csv']
 group: 'Cryptocurrencies'
@@ -42,13 +42,13 @@ In that span, Bitcoin went from the lowest price (172 dollars on January 14, 201
 
 Bitcoin reached the following milestones on these dates:
 
- - 10k: November 28, 2017
- - 20k: December 17, 2020
- - 30k: January 3, 2021
- - 40k: January 9, 2021
- - 50k: February 18, 2021
- - 60k: March 14, 2021
- - 70k: March 12, 2024
+ - 10k: November 28, 2017.
+ - 20k: December 17, 2020.
+ - 30k: January 3, 2021.
+ - 40k: January 9, 2021.
+ - 50k: February 18, 2021.
+ - 60k: March 14, 2021.
+ - 70k: March 12, 2024.
 
 So, there is no surprise when you look at the **YoY average price variation** from 2020 to 2021: an increase of 329.3%. However, the maximum percent variation occurred between 2016 and 2017 (609%). The only significant decrease was from 2021 to 2022 (-40.4%).
 
@@ -69,7 +69,28 @@ So, there is no surprise when you look at the **YoY average price variation** fr
   yAxis="avg"
 />
 
+In 54.4% of the 3,468 days analyzed in this report, there was an increase in Bitcoin's price. The days in which the price rose the most were:
+
+ - December 7, 2017: 33.3%.
+ - January 15, 2015: 22.3%.
+ - July 20, 2017: 21.6%.
+ - February 9, 2021: 19.2%.
+ - April 3, 2019: 17.3%.
+ - October 26, 2019: 16.4%.
+ - December 26, 2017: 16.2%.
+ - September 15, 2017: 15.7%.
+ - January 5, 2017, and March 20, 2020: 14.8%.
+
+The steepest declines occurred on the following dates:
+
+ - March 13, 2020: -5.2%.
+ - January 14, 2015: -22.3%.
+ - September 14, 2017: -20.2%.
+ - 
+
 ## Month-Over-Month
+
+Some of the biggest monthly percent price variations of Bitcoin happened in 2017 between June and December. From November to December, **Bitcoin almost doubled its value** (an astonishing 99%).
 
 #### Bitcoin monthly average price from January 2015 to June 2024
 <PlotlyBarChart
@@ -81,7 +102,7 @@ So, there is no surprise when you look at the **YoY average price variation** fr
   yAxis="avg"
 />
 
-#### Bitcoin monthly variation price from January 2015 to June 2024 (%)
+#### Bitcoin monthly price variation from January 2015 to June 2024 (%)
 <FlatUiTable
   data={{
     url: 'month_var.csv'
