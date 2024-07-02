@@ -134,11 +134,11 @@ On 17 times, Bitcoin price recorded a monthly loss between 10 and 30 percent.
 Note for the graphics: all prices at 00:00:00 GMT
 Source: [Coingecko](https://www.coingecko.com/es/monedas/bitcoin/historical_data)
 
-## What next?
+## A look at the future
 
 Jack Dorsey, the creator of Twitter (now X), forecasts that [Bitcoin will reach a seven-figure price by 2030](https://www.coindesk.com/markets/2024/05/10/former-twitter-ceo-jack-dorsey-says-bitcoin-will-go-beyond-1-million-in-2030/). That is an optimistic approach, given that according to Coincodex price prediction, [Bitcoin may reach a value of approximately 300,000 dollars by 2030](https://coincodex.com/crypto/bitcoin/price-prediction/).
 
-Meanwhile, marketing guru Neil Patel predicted at The Motley Fool that it will be worth $150,000 in six years. This article was replicated on the [Nasdaq website](https://www.nasdaq.com/articles/prediction:-bitcoin-will-reach-$150000-in-2030). 
+Meanwhile, marketing guru Neil Patel predicted at The Motley Fool that it will be worth 150,000 dollars in six years. This article was replicated on the [Nasdaq website](https://www.nasdaq.com/articles/prediction:-bitcoin-will-reach-$150000-in-2030). 
 
 Let's see what fate has in store for the world's pioneer and best-known cryptocurrency.
 
